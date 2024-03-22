@@ -1,0 +1,1 @@
+savedcmd_/home/de2i150/proj/proj1/driver/pci/de2i-150.mod := printf '%s\n'   de2i-150.o | awk '!x[$$0]++ { print("/home/de2i150/proj/proj1/driver/pci/"$$0) }' > /home/de2i150/proj/proj1/driver/pci/de2i-150.mod
